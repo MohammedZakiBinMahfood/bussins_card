@@ -28,7 +28,7 @@ class BusienessCardApp extends StatelessWidget {
               style: TextStyle(
                 color: Colors.white,
                 fontSize: 28,
-                fontFamily: 'Playwrite England SemiJoined',
+                fontFamily: 'Pacifico',
               ),
             ),
             const Text(
@@ -61,6 +61,7 @@ class BusienessCardApp extends StatelessWidget {
                   style: TextStyle(
                     fontSize: 23,
                     color: Colors.black,
+                    fontFamily: 'Pacifico',
                   ),
                 ),
               ),
@@ -78,8 +79,9 @@ class BusienessCardApp extends StatelessWidget {
                 title: Text(
                   'mohammadbinmahfood@gmail.com',
                   style: TextStyle(
-                    fontSize: 16,
+                    fontSize: 20,
                     color: Colors.black,
+                    fontFamily: 'Pacifico',
                   ),
                 ),
               ),

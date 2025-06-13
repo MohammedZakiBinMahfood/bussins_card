@@ -1,11 +1,11 @@
 import 'package:flutter/material.dart';
 
 void main() {
-  runApp(const  BusienessCardApp());
+  runApp(const BusienessCardApp());
 }
 
 class BusienessCardApp extends StatelessWidget {
-   const BusienessCardApp({super.key});
+  const BusienessCardApp({super.key});
 
   @override
   Widget build(BuildContext context) {
@@ -20,7 +20,7 @@ class BusienessCardApp extends StatelessWidget {
               backgroundColor: Colors.white,
               child: CircleAvatar(
                 radius: 125,
-                backgroundImage: AssetImage('images/20230423.jpg'),
+                backgroundImage: AssetImage('assets/images/ss.png'),
               ),
             ),
             const Text(
